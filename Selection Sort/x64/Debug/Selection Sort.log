@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\Emir Hamza\Desktop\Algoritmalar\Selection Sort\Main.cpp(23,41): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Selection Sort.vcxproj -> C:\Users\Emir Hamza\Desktop\Algoritmalar\Selection Sort\x64\Debug\Selection Sort.exe
